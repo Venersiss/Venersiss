@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d47a1&height=230&section=header&text=Ivan%20Kent%20Custodio&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%7C%20IoT%20%7C%20AI%20%7C%20Web%20Dev&descSize=18&descAlignY=55&descColor=58a6ff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+IoT+Systems+That+Matter;Training+AI+Models+to+See+the+World;Exploring+AI+Automation+%F0%9F%A4%96;Turning+Ideas+Into+Working+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+IoT+Systems+That+Matter;Training+AI+Models+to+See+the+World;Exploring+AI+Automation;Turning+Ideas+Into+Working+Code)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-kent-custodio-077b673a8)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venersiss)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Ivan Kent Custodio
@@ -28,7 +28,7 @@ interests:
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,21 +52,21 @@ interests:
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 <div align="center">
 
 ```
-🤖 AI Automation — building smart workflows with Make.com + OpenAI
-📝 Prompt Engineering — writing instructions that make AI actually useful
-⚙️ Business Process Automation — solving real problems with no-code tools
+AI Automation — building smart workflows with Make.com + OpenAI
+Prompt Engineering — writing instructions that make AI actually useful
+Business Process Automation — solving real problems with no-code tools
 ```
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
