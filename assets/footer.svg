@@ -2,70 +2,46 @@
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
-      .game-over { font-family: 'Press Start 2P', monospace; font-size: 18px; fill: #e94560; }
-      .continue { font-family: 'Press Start 2P', monospace; font-size: 10px; fill: #00ff41; }
+      .game-over { font-family: 'Press Start 2P', monospace; font-size: 18px; }
+      .continue { font-family: 'Press Start 2P', monospace; font-size: 10px; }
       .exit { font-family: 'Press Start 2P', monospace; font-size: 10px; fill: #533483; }
-      .thanks { font-family: 'Press Start 2P', monospace; font-size: 8px; fill: #73eff7; }
+      .thanks { font-family: 'Press Start 2P', monospace; font-size: 8px; }
       @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
-      .blink { animation: blink 1s infinite; }
       @keyframes twinkle { 0%,100%{opacity:0.2} 50%{opacity:1} }
+      @keyframes glow-red { 0%,100%{fill:#e94560} 50%{fill:#ef7d57} }
+      @keyframes glow-green { 0%,100%{fill:#00ff41} 50%{fill:#73eff7} }
+      @keyframes glow-cyan { 0%,100%{fill:#73eff7} 50%{fill:#00ff41} }
+      @keyframes flash { 0%,100%{fill:#e94560} 25%{fill:#ffcd75} 50%{fill:#00ff41} 75%{fill:#73eff7} }
+      .blink { animation: blink 1s infinite; }
       .tw1 { animation: twinkle 2s infinite; }
       .tw2 { animation: twinkle 3s infinite 0.7s; }
       .tw3 { animation: twinkle 2.5s infinite 1.2s; }
+      .glow-red { animation: glow-red 2s infinite; }
+      .glow-green { animation: glow-green 2s infinite; }
+      .glow-cyan { animation: glow-cyan 3s infinite; }
+      .flash { animation: flash 2s linear infinite; }
     </style>
   </defs>
-  
-  <!-- Background -->
   <rect width="800" height="150" fill="#0d1117"/>
-  
-  <!-- Outer pixel border -->
   <rect x="20" y="10" width="760" height="130" fill="none" stroke="#533483" stroke-width="4"/>
   <rect x="24" y="14" width="752" height="122" fill="none" stroke="#1a1a2e" stroke-width="2"/>
   <rect x="28" y="18" width="744" height="114" fill="none" stroke="#e94560" stroke-width="2"/>
-  
-  <!-- Inner background -->
   <rect x="30" y="20" width="740" height="110" fill="#0a0e17" opacity="0.8"/>
-  
   <!-- Stars -->
-  <rect x="60" y="35" width="2" height="2" fill="#fff" class="tw1"/>
-  <rect x="140" y="55" width="2" height="2" fill="#fff" class="tw2"/>
-  <rect x="250" y="30" width="2" height="2" fill="#fff" class="tw3"/>
-  <rect x="550" y="40" width="2" height="2" fill="#fff" class="tw1"/>
-  <rect x="650" y="55" width="2" height="2" fill="#fff" class="tw2"/>
-  <rect x="720" y="35" width="2" height="2" fill="#fff" class="tw3"/>
-  <rect x="100" y="100" width="2" height="2" fill="#533483"/>
-  <rect x="680" y="95" width="2" height="2" fill="#533483"/>
-  
-  <!-- Game Over text -->
-  <text x="400" y="55" text-anchor="middle" class="game-over">GAME OVER?</text>
-  
-  <!-- Menu arrow (blinking) -->
-  <rect x="305" y="72" width="8" height="4" fill="#00ff41" class="blink"/>
-  <rect x="309" y="68" width="4" height="4" fill="#00ff41" class="blink"/>
-  <rect x="309" y="76" width="4" height="4" fill="#00ff41" class="blink"/>
-  <rect x="313" y="72" width="4" height="4" fill="#00ff41" class="blink"/>
-  
-  <text x="325" y="80" class="continue">CONTINUE</text>
+  <rect x="60" y="35" width="2" height="2" fill="#fff" class="tw1"/><rect x="140" y="55" width="2" height="2" fill="#fff" class="tw2"/><rect x="250" y="30" width="2" height="2" fill="#fff" class="tw3"/><rect x="550" y="40" width="2" height="2" fill="#fff" class="tw1"/><rect x="650" y="55" width="2" height="2" fill="#fff" class="tw2"/><rect x="720" y="35" width="2" height="2" fill="#fff" class="tw3"/><rect x="100" y="100" width="2" height="2" fill="#533483"/><rect x="680" y="95" width="2" height="2" fill="#533483"/>
+  <!-- Game Over with flash animation -->
+  <text x="400" y="55" text-anchor="middle" class="game-over flash">GAME OVER?</text>
+  <!-- Blinking arrow -->
+  <rect x="305" y="72" width="8" height="4" fill="#00ff41" class="blink"/><rect x="309" y="68" width="4" height="4" fill="#00ff41" class="blink"/><rect x="309" y="76" width="4" height="4" fill="#00ff41" class="blink"/><rect x="313" y="72" width="4" height="4" fill="#00ff41" class="blink"/>
+  <text x="325" y="80" class="continue glow-green">CONTINUE</text>
   <text x="325" y="100" class="exit">EXIT</text>
-  
-  <!-- Thanks text -->
-  <text x="550" y="90" class="thanks">THANKS FOR VISITING, PILOT.</text>
-  
-  <!-- Pixel art small UFO -->
+  <text x="550" y="90" class="thanks glow-cyan">THANKS FOR VISITING, PILOT.</text>
+  <!-- Pixel UFO 1 -->
   <g transform="translate(80, 70)">
-    <rect x="8" y="0" width="8" height="4" fill="#533483"/>
-    <rect x="4" y="4" width="16" height="4" fill="#e94560"/>
-    <rect x="0" y="8" width="24" height="4" fill="#73eff7"/>
-    <rect x="4" y="12" width="4" height="4" fill="#ffcd75"/>
-    <rect x="16" y="12" width="4" height="4" fill="#ffcd75"/>
+    <rect x="8" y="0" width="8" height="4" fill="#533483"/><rect x="4" y="4" width="16" height="4" fill="#e94560"/><rect x="0" y="8" width="24" height="4" fill="#73eff7"/><rect x="4" y="12" width="4" height="4" fill="#ffcd75" class="tw1"/><rect x="16" y="12" width="4" height="4" fill="#ffcd75" class="tw2"/>
   </g>
-  
-  <!-- Pixel art small UFO 2 -->
+  <!-- Pixel UFO 2 -->
   <g transform="translate(680, 30)">
-    <rect x="6" y="0" width="6" height="3" fill="#533483"/>
-    <rect x="3" y="3" width="12" height="3" fill="#ef7d57"/>
-    <rect x="0" y="6" width="18" height="3" fill="#73eff7"/>
-    <rect x="3" y="9" width="3" height="3" fill="#ffcd75"/>
-    <rect x="12" y="9" width="3" height="3" fill="#ffcd75"/>
+    <rect x="6" y="0" width="6" height="3" fill="#533483"/><rect x="3" y="3" width="12" height="3" fill="#ef7d57"/><rect x="0" y="6" width="18" height="3" fill="#73eff7"/><rect x="3" y="9" width="3" height="3" fill="#ffcd75" class="tw3"/><rect x="12" y="9" width="3" height="3" fill="#ffcd75" class="tw1"/>
   </g>
 </svg>
