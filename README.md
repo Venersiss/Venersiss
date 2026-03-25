@@ -1,117 +1,145 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2c,25:5d275d,50:b13e53,75:ef7d57,100:ffcd75&height=200&section=header&text=IVAN%20KENT%20CUSTODIO&fontSize=42&fontColor=ffcd75&fontAlignY=35&desc=%E2%96%88%E2%96%88%20SELECT%20YOUR%20PLAYER%20%E2%96%88%E2%96%88&descSize=16&descAlignY=55&descColor=38b764&animation=twinkling&fontFamily=monospace)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:1a1a2e,25:16213e,50:0f3460,75:533483,100:e94560&height=200&text=IVAN%20KENT%20CUSTODIO&fontSize=45&fontColor=00ff41&fontAlignY=50&fontFamily=monospace&animation=twinkling&stroke=00ff41&strokeWidth=1)
 
 ```
- ____  __    ____  _  _  ____  ____       ____  ____  __    ____  ___  ____  ____  ____
-(  _ \(  )  (  _ \( \/ )( ___)(  _ \     / ___)( ___)(  )  ( ___)/ __)(_  _)( ___)(  _ \
- )___/ )(__  )___/ \  /  )__)  )   /     \___ \ )__)  )(__  )__)( (__   )(   )__)  )(_) )
-(__)  (____)(__)(   (__) (____)(_)\_)     (____/(____)(____)(____)\___) (__) (____)(____/
+                         .  *  .    *        .   *    .
+              *    .        .       .   *          *
+    .    *         ____________________         .        *
+         .        |  ╔═══════════════╗ |   .         .
+   *          .   |  ║  > GAME START ║ |        *
+        .         |  ╚═══════════════╝ |  .          .
+    .       *     |____________________|       *
+              .        .    *     .          .       *
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38B764&center=true&vCenter=true&random=false&width=620&lines=%3E+LOADING+PLAYER+PROFILE...;%3E+IoT+ENGINEER+%7C+AI+BUILDER+%7C+WEB+DEV;%3E+CURRENTLY+EXPLORING+AI+AUTOMATION...;%3E+INSERT+COIN+TO+CONTINUE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=650&height=40&lines=%3E_%20SYSTEM+BOOT...+LOADING+PLAYER+DATA...;%3E_%20IoT+ENGINEER+%2F%2F+AI+BUILDER+%2F%2F+WEB+DEV;%3E_%20MISSION:+EXPLORE+AI+AUTOMATION;%3E_%20STATUS:+READY+FOR+DEPLOYMENT" alt="Typing SVG" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ffcd75?style=for-the-badge&logo=linkedin&logoColor=1a1c2c)](https://www.linkedin.com/in/ivan-kent-custodio-077b673a8)
-[![GitHub](https://img.shields.io/badge/GITHUB-38b764?style=for-the-badge&logo=github&logoColor=1a1c2c)](https://github.com/Venersiss)
-[![Email](https://img.shields.io/badge/EMAIL-b13e53?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:ivancustodio@g.cjc.edu.ph)
+[![LinkedIn](https://img.shields.io/badge/--0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&label=LINK&labelColor=0d1117)](https://www.linkedin.com/in/ivan-kent-custodio-077b673a8)
+[![GitHub](https://img.shields.io/badge/--00ff41?style=for-the-badge&logo=github&logoColor=00ff41&label=HUB&labelColor=0d1117)](https://github.com/Venersiss)
+[![Email](https://img.shields.io/badge/--e94560?style=for-the-badge&logo=gmail&logoColor=e94560&label=MAIL&labelColor=0d1117)](mailto:ivancustodio@g.cjc.edu.ph)
 
 </div>
 
----
+<br>
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║    >>>  P L A Y E R    S T A T S  <<<                                     ║
+║   ─────────────────────────────────────                                   ║
+║                                                                           ║
+║    PILOT .......... Ivan Kent Custodio                                    ║
+║    CLASS .......... Computer Engineering                                  ║
+║    BASE ........... Digos City, Davao del Sur, PH                         ║
+║    ACADEMY ........ Cor Jesu College (2022-2026)                          ║
+║                                                                           ║
+║    ACTIVE MISSION . Exploring AI Automation                               ║
+║                                                                           ║
+║    ┌─────────────────────────────────────────────────────────────┐        ║
+║    │  "I build things that detect road defects from drones,     │        ║
+║    │   track stolen bicycles, and count rebars automatically."  │        ║
+║    └─────────────────────────────────────────────────────────────┘        ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   NAME ......... Ivan Kent Custodio                              ║
-║   CLASS ........ Computer Engineering Student                    ║
-║   LOCATION ..... Digos City, Davao del Sur, PH                   ║
-║   SCHOOL ....... Cor Jesu College (2022-2026)                    ║
-║                                                                  ║
-║   STATUS ....... Exploring AI Automation                         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+     ╔═══════════════════════════════════╗
+     ║  >>  W E A P O N S   B A Y  <<   ║
+     ╚═══════════════════════════════════╝
 ```
 
 </div>
 
----
+```
+ ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
+ │   LANGUAGES      │  │   AI & VISION    │  │   IoT HARDWARE   │
+ │ ═════════════    │  │ ═════════════    │  │ ═════════════    │
+ │                  │  │                  │  │                  │
+ │ JS     ████████░ │  │ YOLOv11 ██████░░ │  │ Arduino █████████ │
+ │ Java   ███████░░ │  │ OpenCV  █████░░░ │  │ ESP32   ███████░░ │
+ │ Python ███████░░ │  │                  │  │ RPi     █████░░░░ │
+ │                  │  │                  │  │                  │
+ └──────────────────┘  └──────────────────┘  └──────────────────┘
+ ┌──────────────────┐  ┌──────────────────┐  ┌──────────────────┐
+ │   FRONTEND       │  │   BACKEND & DB   │  │   TOOLS          │
+ │ ═════════════    │  │ ═════════════    │  │ ═════════════    │
+ │                  │  │                  │  │                  │
+ │ HTML   ███████░░ │  │ Node.js ███████░░ │  │ Docker  ███████░░ │
+ │ CSS    ███████░░ │  │ Supa    ███████░░ │  │ Git     █████████ │
+ │ Vue.js █████░░░░ │  │ MySQL   █████░░░░ │  │ Make    ███░░░░░░ │
+ │                  │  │                  │  │                  │
+ └──────────────────┘  └──────────────────┘  └──────────────────┘
+```
+
+<br>
 
 <div align="center">
 
-### > SKILL TREE UNLOCKED <
+```
+     ╔═══════════════════════════════════════╗
+     ║  >>  A C T I V E    Q U E S T  <<    ║
+     ╚═══════════════════════════════════════╝
+
+     ┌─────────────────────────────────────────────────┐
+     │                                                 │
+     │  QUEST LOG: AI Automation                       │
+     │  ─────────────────────────────                  │
+     │                                                 │
+     │  > Build workflows with Make.com + OpenAI       │
+     │  > Master prompt engineering                    │
+     │  > Automate business processes with AI          │
+     │                                                 │
+     │  DIFFICULTY ░░░░░░░░░░░░░░░░░░░░ LEGENDARY     │
+     │  PROGRESS   ██░░░░░░░░░░░░░░░░░░ 10%           │
+     │  REWARD     +9999 XP // NEW ABILITIES           │
+     │                                                 │
+     └─────────────────────────────────────────────────┘
+```
 
 </div>
 
-```
-  LANGUAGES            AI & VISION            IoT & HARDWARE
-  ══════════           ═══════════            ══════════════
-  [##########] JS      [########--] YOLOv11   [##########] Arduino
-  [########--] Java    [######----] OpenCV    [########--] ESP32
-  [########--] Python                         [######----] Raspberry Pi
-
-  FRONTEND             BACKEND & DB           TOOLS
-  ════════             ════════════           ═════
-  [########--] HTML    [########--] Node.js   [########--] Docker
-  [########--] CSS     [########--] Supabase  [##########] Git
-  [######----] Vue.js  [######----] MySQL     [####------] Make.com
-```
-
----
+<br>
 
 <div align="center">
 
-### > CURRENT QUEST <
+```
+     ╔═══════════════════════════════════╗
+     ║  >>  H I G H   S C O R E S  <<   ║
+     ╚═══════════════════════════════════╝
+```
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   QUEST: Learn AI Automation                                 ║
-║   ──────────────────────────────────                         ║
-║                                                              ║
-║   [ ] Build smart workflows with Make.com + OpenAI           ║
-║   [ ] Master prompt engineering                              ║
-║   [ ] Automate business processes with AI                    ║
-║                                                              ║
-║   DIFFICULTY: ████████░░ HARD                                ║
-║   PROGRESS:   ██░░░░░░░░ JUST STARTED                       ║
-║   REWARD:     +9999 XP                                       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venersiss&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=e94560&text_color=00ff41&ring_color=e94560" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venersiss&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00ff41&dates=533483" />
 
 </div>
 
----
-
-<div align="center">
-
-### > HIGH SCORES <
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venersiss&show_icons=true&hide_border=true&bg_color=1a1c2c&title_color=ffcd75&icon_color=38b764&text_color=a7f070&ring_color=ffcd75" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venersiss&hide_border=true&background=1a1c2c&ring=ffcd75&fire=b13e53&currStreakLabel=38b764&sideLabels=ffcd75&currStreakNum=a7f070&sideNums=a7f070&dates=73eff7" />
-
-</div>
-
----
+<br>
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════╗
-║                                              ║
-║           THANKS FOR VISITING!               ║
-║                                              ║
-║          PRESS START TO CONTINUE             ║
-║                                              ║
-╚══════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║              G A M E   O V E R ?                  ║
+║                                                   ║
+║           > CONTINUE                              ║
+║             EXIT                                  ║
+║                                                   ║
+║          THANKS FOR VISITING, PILOT.              ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Venersiss&color=ffcd75&style=pixel&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=Venersiss&color=00ff41&style=pixel&label=SHIPS+DETECTED)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcd75,25:ef7d57,50:b13e53,75:5d275d,100:1a1c2c&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,25:533483,50:0f3460,75:16213e,100:1a1a2e&height=120&section=footer" width="100%" />
 
 </div>
