@@ -194,8 +194,17 @@ currently_exploring:
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Venersiss&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&currStreakNum=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Venersiss&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=0d47a1&radius=8" />
+<a href="https://github.com/Venersiss">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Venersiss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+</a>
+<a href="https://github.com/Venersiss">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venersiss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</a>
+
+<br/>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Venersiss&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=0d47a1&radius=8" />
 
 </div>
 
@@ -205,15 +214,9 @@ currently_exploring:
 
 <div align="center">
 
-### Contribution Breakdown
+### Contribution Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venersiss&theme=tokyonight" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venersiss&theme=tokyonight" width="32.5%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venersiss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="32.5%" />
-<img src="https://github-readme-stats.vercel.app/api?username=Venersiss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" width="32.5%" />
 
 </div>
 
