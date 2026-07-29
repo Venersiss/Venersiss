@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ivan-kent-custodio-077b673a8">
+<a href="https://www.linkedin.com/in/ivan-custodio">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Venersiss">
