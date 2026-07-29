@@ -59,7 +59,12 @@ currently_exploring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Venersiss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=2&rank=SECRET,SSS,SS,SH,AAA,AA,A,B,C" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Venersiss&theme=tokyonight&utcOffset=8" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venersiss&theme=tokyonight" width="48%" />
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 
 </div>
 
@@ -189,14 +194,8 @@ currently_exploring:
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Venersiss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
 <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Venersiss&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=58a6ff&currStreakNum=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-
-<br/>
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venersiss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Venersiss&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=0d47a1&radius=8" />
+<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Venersiss&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&area_color=0d47a1&radius=8" />
 
 </div>
 
@@ -206,13 +205,15 @@ currently_exploring:
 
 <div align="center">
 
-### 3D Contribution Globe
+### Contribution Breakdown
 
-<img src="https://raw.githubusercontent.com/Venersiss/Venersiss/output-3d/snake.svg" alt="Contribution Snake" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venersiss&theme=tokyonight" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venersiss&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venersiss&theme=tokyonight" width="32.5%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venersiss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="32.5%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Venersiss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" width="32.5%" />
 
 </div>
 
@@ -241,9 +242,5 @@ Business Process Automation — end-to-end systems that replace full-time staff
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d47a1,70:0d1117,100:58a6ff&height=120&section=footer" width="100%" />
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/Venersiss/Venersiss/output-3d/snake.svg)
 
 </div>
