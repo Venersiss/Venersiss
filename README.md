@@ -214,9 +214,7 @@ currently_exploring:
 
 <div align="center">
 
-### Contribution Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venersiss&theme=tokyonight" width="100%" />
+<img src="https://raw.githubusercontent.com/Venersiss/Venersiss/output-3d/snake-dark.svg" width="100%" />
 
 </div>
 
