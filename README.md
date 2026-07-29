@@ -214,7 +214,7 @@ currently_exploring:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Venersiss/Venersiss/output-3d/snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Venersiss/Venersiss/output-3d/snake.svg" width="100%" />
 
 </div>
 
