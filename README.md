@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d47a1,70:0d1117,100:58a6ff&height=280&section=header&text=Ivan%20Kent%20Custodio&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%E2%80%A2%20AI%20%26%20RAG%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps&descSize=17&descAlignY=55&descColor=58a6ff&animation=fadeIn&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d47a1,70:0d1117,100:58a6ff&height=280&section=header&text=Ivan%20Kent%20Custodio&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%E2%80%A2%20AI%20%2B%20RAG%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps&descSize=17&descAlignY=55&descColor=58a6ff&animation=fadeIn&fontAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+Full-Stack+Web+Applications;Creating+Next.js+%2B+Gemini+RAG+Systems;Designing+AI+Life+Coaching+Platforms;Turning+Coffee+Into+Production+Systems;Engineering+End-to-End+Automation)](https://git.io/typing-svg)
 
