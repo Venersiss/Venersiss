@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d47a1,70:0d1117,100:58a6ff&height=280&section=header&text=Ivan%20Kent%20Custodio&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%E2%80%A2%20AI%20Automation%20%E2%80%A2%20IoT%20%E2%80%A2%20Full-Stack&descSize=17&descAlignY=55&descColor=58a6ff&animation=fadeIn&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d47a1,70:0d1117,100:58a6ff&height=280&section=header&text=Ivan%20Kent%20Custodio&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Engineering%20%E2%80%A2%20AI%20%26%20RAG%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20DevOps&descSize=17&descAlignY=55&descColor=58a6ff&animation=fadeIn&fontAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-Powered+Phone+Agents;Automating+Video+Production+Pipelines;Designing+Voice-First+Applications;Turning+Coffee+Into+Production+Systems;Engineering+End-to-End+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Building+Full-Stack+Web+Applications;Creating+Next.js+%2B+Gemini+RAG+Systems;Designing+AI+Life+Coaching+Platforms;Turning+Coffee+Into+Production+Systems;Engineering+End-to-End+Automation)](https://git.io/typing-svg)
 
 <br/>
 
@@ -40,18 +40,18 @@ education: BS Computer Engineering @ Cor Jesu College
 grad: 2026
 
 focus:
+  - Full-Stack Web Applications (Next.js, React, Flask)
+  - AI & RAG Pipelines (Gemini, OpenAI, Anthropic)
   - AI Voice Agents & Phone Automation
   - Automated Video Production Pipelines
   - Lead Processing & Classification Systems
-  - Business Process Automation
-  - IoT & Embedded Systems
-  - Full-Stack Web Applications
+  - Cloud Infrastructure & DevOps
 
 currently_exploring:
-  - n8n Workflow Automation
-  - Gemini Multimodal Live API
-  - Docker & Self-Hosted Infrastructure
-  - Twilio Voice & Messaging
+  - TypeScript & Next.js App Router
+  - Cloudflare Workers & Pages
+  - Supabase & Edge Functions
+  - Prompt Engineering & AI Safety
 ```
 
 </td>
@@ -131,6 +131,31 @@ currently_exploring:
 <p>Email forwarding, calendar management, Drive permissions, contacts lookup, 9-model fallback chain. Standalone Express app behind Caddy reverse proxy.</p>
 </td>
 </tr>
+<tr>
+<td width="50%">
+<h3>🧠 Alex — AI Life Navigator</h3>
+<p>LLM-driven life coaching system for at-risk youth. 4-action conversation routing (advance/skip/stay/override), crisis detection guardrails, 33-node JSON decision trees, and 83-field Life Map memory schema.</p>
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+</p>
+<p>2 coaching journeys built, 49 automated E2E tests, deployed on Render. Single LLM call handles routing, Life Map updates, and response generation — safety-first with crisis override detection.</p>
+</td>
+<td width="50%">
+<h3>📖 Oahspe AI Study Tool</h3>
+<p>Full-stack RAG-powered Bible study web app. Stop-word filtered retrieval, all-keyword matching, Gemini 3.6 Flash integration — all answers cite the original 1882 Edition with Book/Chapter/Verse references.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+<p>17 TypeScript API routes, 7 Firestore collections, high-contrast (21:1) low-vision accessible UI, 113-lesson youth curriculum, Web Speech API voice input. Deployed on Vercel with iron-session auth.</p>
+</td>
+</tr>
 </table>
 
 </div>
@@ -153,6 +178,10 @@ currently_exploring:
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### AI & Automation
 
@@ -227,11 +256,11 @@ currently_exploring:
 ### Currently Learning
 
 ```
-n8n Workflow Orchestration — building complex multi-service automations
-Docker Infrastructure — self-hosting AI services on bare metal
-Prompt Engineering — writing system prompts that control AI phone agents
-Twilio Voice API — A2P 10DLC compliance, real-time audio streaming
-Business Process Automation — end-to-end systems that replace full-time staff
+Cloudflare Workers & Pages — edge computing for global-scale apps
+Supabase — auth, real-time, edge functions, and PostgreSQL at scale
+Prompt Engineering — safety guardrails, multi-action routing, and AI coaching systems
+Next.js App Router — server components, streaming, and incremental adoption
+OpenAI & Anthropic APIs — multi-model orchestration and cost optimization
 ```
 
 </div>
